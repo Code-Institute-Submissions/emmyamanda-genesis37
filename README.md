@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This website was created for a theatre company named Genesis 37. It focus on providing excisting and new fans to find the relevant information about upcoming events, Genesis 37's goals and to get to know the creators. 
+This website was created for a theatre company named Genome to showcase their theatre piece Genesis 37. It focus on providing excisting and new fans to find the relevant information about upcoming events, Genesis 37's goals and to get to know the creators. 
 
 Genesis 37 was created during lockdown by former University students Amalia and Argy. With their final theatre project being moved from the classroom to Zoom online they took the opportunity to continue the project further and get more people involved in a virtual theatre experience. The purpose of this website is to continue their goal to make virtual theatre the new normal and to show that theatre is not dead because of Covid-19 that has stopped the live theatre for the time beeing. 
 
@@ -47,8 +47,8 @@ The website will target the following audience:
  
 
  **Demgraphic:**
- - 8 years olds and up
- - Student ages 8 and up
+ - 16 years olds and up
+ - Student ages 16 and up
  - Corparate companies
  - Theaters
 
@@ -74,6 +74,23 @@ A strategy diagram was created by following these goals in mind to find the trad
 
 ![Strategy Diagram](readme-files/strategy-diagram.png)
 
+#### Scope
+With the strategy defined we need to determine what needs to be done according to the strategy plan. 
+
+**What the website need to feature:**
+- Bio about the company 
+- Bio about the founders
+- Insight about the shows
+- Upcoming shows
+- New theatre pieces
+- Social media links
+- Contact details
+- Gallery features (pictures)
+
+**What functionalities the website need to have:**
+- The user will be able to easily navigate the website
+- The user will be able to easily find external links in order to book tickets, find upcoming shows/ events
+- The user will be able to easily contact Genome theatre company throught social media and other choosen communication channels
 
 
 
