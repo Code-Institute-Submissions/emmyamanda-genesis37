@@ -74,8 +74,7 @@ A strategy diagram was created by following these goals in mind to find the trad
 
 ![Strategy Diagram](readme-files/strategy-diagram.png)
 
-#### Scope
-With the strategy defined 
+
 
 
 
