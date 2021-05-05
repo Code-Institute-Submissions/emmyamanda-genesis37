@@ -36,5 +36,47 @@ This is the first project out of the four Milestone Projects to be completed in 
 
 To create a well informed and structured webside, the developer worked with one of the founders to work out content of the website to reach the user stories goals. 
 
+#### Strategy
+
+The website will target the following audience:
+
+ **People:**
+ - Current fans
+ - New fans
+ - Potential bookers
+ 
+
+ **Demgraphic:**
+ - 8 years olds and up
+ - Student ages 8 and up
+ - Corparate companies
+ - Theaters
+
+ **Attributes:**
+ - Being curious
+ - Positive for change
+ - Value of a more open lifestyle
+ - Lifestyle of being a fan of theatre
+
+Genesis 37 website needs to make the users able to:
+- Find necessary information about the company
+- Upcoming shows
+- New theatre pieces
+- Contact information (social media and booking enquires)
+
+Genesis 37 website needs to make the company be able to:
+- Easily present users of information about the company and keep them updated on new pieces and upcoming events
+- Easily present their social media accounts to the users
+- Easily allow users to communicate with them
+- Easily allow the company to present themself in an intriguing way to the users
+
+A strategy diagram was created by following these goals in mind to find the trade off between importance and viability:
+
+![Strategy Diagram](readme-files/strategy-diagram.png)
+
+#### Scope
+With the strategy defined 
+
+
 
 
