@@ -92,6 +92,13 @@ With the strategy defined we need to determine what needs to be done according t
 - The user will be able to easily find external links in order to book tickets, find upcoming shows/ events
 - The user will be able to easily contact Genome theatre company throught social media and other choosen communication channels
 
+#### Structure
+To make sure the users can navigate through the website a hierarchy tree was created as seen below:
+
+![Structure Map](readme-files/structure-map.png)
+
+
+
 
 
 
