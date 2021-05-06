@@ -51,6 +51,14 @@ header {
     border-bottom: 1px solid #131010;
   }
 
+.hero-pic {
+    height: 1000px;
+    width: 100%;
+    background-image: url(/assets/images/amaliasofa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 
 
