@@ -1,10 +1,13 @@
 /*------------Imported Fonts-----*/
 @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Mulish:wght@222&family=Roboto+Condensed&family=Roboto+Mono:wght@307;314&family=Roboto:wght@400;500;700&display=swap');
 
+header {
+    background-color: rgba(155, 157, 168, 0.82);
+    padding: 30px;
+}
+
 .logo {
-    position: absolute;
-    width: 267px;
-    height: 56px;
+    float: left;
 
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
@@ -16,7 +19,37 @@
     color: rgba(10, 8, 8, 0.63);
 }
 
+.menu {
+    font-size: 120%;
+    list-style-type: none;
+    letter-spacing: 4px;
+    width: auto;
+    position: relative;
+}
 
+.logo .menu {
+    line-height: 50px;
+    background-color: aquamarine;
+    margin-top: 30px;
+}
+
+.menu li {
+    float: right;
+    margin-right: 30px;
+}
+
+.menu a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: rgba(10, 8, 8, 0.63);
+}
+
+
+
+.menu a:hover {
+    border-bottom: 1px solid #131010;
+  }
 
 
 
