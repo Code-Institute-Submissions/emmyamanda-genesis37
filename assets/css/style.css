@@ -64,7 +64,7 @@ header {
     font-size: 1500%;
     text-transform: uppercase;
     position: absolute;
-    left: 220px;
+    left: 160px;
     top: 360px;
 
     color: rgba(255, 255, 255, 0.73);
@@ -76,10 +76,33 @@ header {
     font-size: 600%;
     text-transform: capitalize;
     position: absolute;
-    left: 450px;
+    left: 370px;
     top: 600px;
 
     color: rgba(255, 255, 255, 0.73);
+}
+
+#intro {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 20px;
+
+    color: rgba(13, 12, 12, 0.63);
+}
+
+.intro-left {
+    float: left;
+    width: 33%;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.intro-middle {
+    width: 33%;
+    position: absolute;
+    left: 530px;
+    top: 1142px;
+    margin-top: 25px;
 }
 
 
