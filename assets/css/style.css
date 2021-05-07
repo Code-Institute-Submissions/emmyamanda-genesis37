@@ -84,25 +84,58 @@ header {
 
 #intro {
     text-align: center;
-    font-size: 200%;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-size: 250%;
     margin-top: 20px;
 
-    color: rgba(13, 12, 12, 0.63);
+    color: rgba(0, 0, 0, 0.70);
+}
+
+.intro-all h3 {
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
 }
 
 .intro-left {
     float: left;
     width: 33%;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 35px;
 }
 
 .intro-middle {
     width: 33%;
     position: absolute;
-    left: 530px;
-    top: 1142px;
-    margin-top: 25px;
+    left: 485px;
+    top: 1180px;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.intro-right {
+    width: 33%;
+    position: absolute;
+    text-align: center;
+    left: 965px;
+    top: 1180px;
+    margin-top: 35px;
+}
+
+#underline-intro-title {
+    width: 60%;
+    border-top: 4px solid #b15151;
+}
+
+#underline-intro-text {
+    width: 20%;
+    border-top: 1px solid #b15151;
+}
+
+.intro-all p {
+    font-family: "Roboto Condensed", sans-serif;
+    text-align: justify;
+    width: 90%;
 }
 
 
