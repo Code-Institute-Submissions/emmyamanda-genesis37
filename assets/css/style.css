@@ -82,6 +82,10 @@ header {
     color: rgba(255, 255, 255, 0.73);
 }
 
+.intro-section {
+    height: 450px;
+}
+
 #intro {
     text-align: center;
     text-transform: uppercase;
@@ -138,6 +142,15 @@ header {
 #underline-intro-text {
     width: 20%;
     border-top: 1px solid #b15151;
+}
+
+.upcoming-events-section {
+    background-image: url(/assets/images/amalia-laying.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    opacity: 40%;
 }
 
 
