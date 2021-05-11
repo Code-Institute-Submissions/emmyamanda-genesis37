@@ -272,7 +272,21 @@ footer {
     font-size: 22px;
 }
 
+.we-are-section {
+    height: 600px;
+}
 
+#picture-one {
+    width: 300px;
+    height: 300px;  
+    text-align: center;  
+    margin-left: 150px;
+}
+
+#picture-one img {
+    max-width: 100%;  
+    height: auto; 
+}
 
 
 
