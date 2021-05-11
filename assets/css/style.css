@@ -3,7 +3,7 @@
 
 header {
     background-color: rgba(155, 157, 168, 0.82);
-    padding: 30px;
+    height: 90px;
 }
 
 .logo {
@@ -14,6 +14,7 @@ header {
     font-weight: normal;
     font-size: 48px;
     line-height: 45px;
+    margin-top: 25px;
 
     color: rgba(10, 8, 8, 0.63);
 }
@@ -33,6 +34,7 @@ header {
 .menu li {
     float: right;
     margin-right: 30px;
+    margin-top: 35px;
 }
 
 .menu a {
@@ -205,6 +207,26 @@ header {
     font-size: 26px;
     background-color: rgba(216, 216, 216, 0.77);
     border: rgba(216, 216, 216, 0.77);
+}
+
+footer {
+    height: 90px;
+    background-color: rgba(155, 157, 168, 0.82);
+}
+
+.social-media-links {
+    text-align: center;
+}
+
+.social-media-links li {
+    display: inline;
+}
+
+.social-media-links i {
+    font-size: 150%;
+    margin-top: 30px;
+    color: rgba(13, 12, 12, 0.63);
+    letter-spacing: 25px;
 }
 
 
