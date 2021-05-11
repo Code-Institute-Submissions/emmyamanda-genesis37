@@ -118,7 +118,7 @@ header {
     position: absolute;
     left: 450px;
     top: 1180px;
-    margin-top: 35px;
+    margin-top: 65px;
     margin-left: 20px;
     text-align: center;
     width: 33%;
@@ -129,7 +129,7 @@ header {
     text-align: center;
     left: 925px;
     top: 1180px;
-    margin-top: 35px;
+    margin-top: 65px;
     margin-left: 33px;
     width: 33%;
 }
@@ -187,7 +187,7 @@ header {
 .time-table h4 {
     color: rgba(0, 0, 0, 0.70);
     font-size: x-large;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .ticket-button-pos {
