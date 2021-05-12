@@ -276,18 +276,21 @@ footer {
     height: 600px;
 }
 
-#picture-one {
+.we-are-images {
+    width: 100%;
+}
+
+#bio-pictures {
     width: 300px;
-    height: 300px;  
-    text-align: center;  
-    margin-left: 150px;
+    height: 300px;   
+    margin: 20px 101px 20px 245px;
+    float: left;
 }
 
-#picture-one img {
-    max-width: 100%;  
-    height: auto; 
+#bio-pictures img {
+    width: 300px; 
+    height: 300px; 
 }
-
 
 
 
