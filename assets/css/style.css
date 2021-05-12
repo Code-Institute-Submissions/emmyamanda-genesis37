@@ -276,8 +276,25 @@ footer {
     height: 600px;
 }
 
+.we-are-section h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    color: rgba(13, 12, 12, 0.73);
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#underline-bio-title {
+    width: 10%;
+    border-top: 4px solid #b15151;
+}
+
 .we-are-images {
     width: 100%;
+    font-family: "Roboto Condensed", sans-serif;
+    color: rgba(13, 12, 12, 0.73);
+    text-align: center;
 }
 
 #bio-pictures {
@@ -290,6 +307,15 @@ footer {
 #bio-pictures img {
     width: 300px; 
     height: 300px; 
+}
+
+#bio-pictures h4 {
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+#bio-pictures p {
+    text-align: justify;
 }
 
 
