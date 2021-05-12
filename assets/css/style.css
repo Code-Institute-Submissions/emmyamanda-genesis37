@@ -380,3 +380,15 @@ footer {
     left: 962px;
     top: 683px;
 }
+
+/*********************CONTACT.HTML************/
+
+.contact-section {
+    height: 780px;
+}
+
+.contact-background {
+    height: 780px;
+    background-image: url(/assets/images/avgi-eye.png);
+    background-size: cover;
+}
