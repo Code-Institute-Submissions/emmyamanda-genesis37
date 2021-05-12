@@ -319,4 +319,62 @@ footer {
 }
 
 
+/*************GALLERY.HTML**************/
 
+.photo-gallery {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.photo-gallery img {
+    width: 100%;
+}
+
+#pic-one {
+    position: absolute;
+    width: 462px;
+    height: 500px;
+    left: 0px;
+    top: 196px;
+}
+
+#pic-two {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 462px;
+    top: 196px;
+}
+
+#pic-three {
+    position: absolute;
+    width: 478px;
+    height: 500px;
+    left: 962px;
+    top: 196px;
+}
+
+#pic-four {
+    position: absolute;
+    width: 462px;
+    height: 500px;
+    left: 0px;
+    top: 696px;
+}
+
+#pic-five {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 462px;
+    top: 696px;
+}
+
+#pic-six {
+    position: absolute;
+    width: 478px;
+    height: 500px;
+    left: 962px;
+    top: 696px;
+}
