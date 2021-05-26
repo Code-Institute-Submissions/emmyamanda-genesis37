@@ -335,6 +335,7 @@ footer {
 }
 
 #pic-one {
+    background-image: url(../images/amalia-neck.png);
     position: absolute;
     width: 462px;
     height: 577px;
