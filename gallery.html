@@ -12,27 +12,31 @@
     </head>
 
     <body>
-        <header>
-            <a href = "index.html">
+        <div class="navbar-logo">
+            <a href = "index.html" aria-label="Genesis37 link to homepage">
                 <h2 class = "logo">Genesis 37</h2>
             </a>
-            <nav>
-                <ul class = "menu">
-                    <li>
-                        <a href = "contact.html">Booking</a>
-                    </li>
-                    <li>
-                        <a href = "gallery.html">Gallery</a>
-                    </li>
-                    <li>
-                        <a href = "about.html">About Us</a>
-                    </li>
-                    <li>
-                        <a href = "index.html">Home</a>
-                    </li>
-                </ul>
+        </div>
+            <nav class="navbar navbar-expand-lg scroll-nav" aria-label="Nav bar">
+                <div class="container-fluid">
+                    <div class="collapse navbar-collapse nav-padding">
+                        <ul class = "menu nav navbar-nav scroll-nav ml-auto">
+                            <li class="nav-item hvr-grow">
+                                <a class="nav-link active" href = "index.html">Home</a>
+                            </li>
+                            <li class="nav-item hvr-grow">
+                                <a class="nav-link" href = "about.html">About Us</a>
+                            </li>
+                            <li class="nav-item hvr-grow">
+                                <a class="nav-link" href = "gallery.html">Gallery</a>
+                            </li>
+                            <li class="nav-item hvr-grow">
+                                <a class="nav-link" href = "contact.html">Booking</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </nav>
-        </header>
 
         <section class = "photo-gallery">
             <img src="assets/images/amalia-neck.png" alt="neck-pic" id="pic-one">
