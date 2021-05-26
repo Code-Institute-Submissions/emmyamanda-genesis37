@@ -152,7 +152,7 @@ header {
 }
 
 .events-background {
-    background-image: url(/assets/images/amalia-laying.png);
+    background-image: url(../images/amalia-laying.png);
     position: absolute;
     z-index: -1;
     opacity: .6;
@@ -240,7 +240,7 @@ footer {
 }
 
 .about-background {
-    background-image: url(/assets/images/back-pic.png);
+    background-image: url(../images/back-pic.png);
     position: absolute;
     z-index: -1;
     opacity: .6;
@@ -386,7 +386,7 @@ footer {
 
 .contact-section {
     height: 780px;
-    background: url(/assets/images/avgi-eye.png);
+    background: url(../images/avgi-eye.png);
     background-size: cover;
 }
 
