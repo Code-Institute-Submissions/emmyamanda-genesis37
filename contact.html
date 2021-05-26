@@ -35,11 +35,25 @@
         </header>
 
         <section class = "contact-section">
-            <form class= "booking-form" method="POST" action="">
+            <form class="booking-form" method="POST" action="">
                 <h2>Book us!</h2>
                 <p>Contact us for an interactive performance.
                     It could be for a company build-up exercise or school event, 
                     or if you have other ideas we would love to hear them!</p>
+                
+                <label for="fname">First Name:</label>
+                <input class="text-input" id="fname" type="text" name="first_name" required>
+                
+                <label for="lname">Last Name:</label>
+                <input class="text_input" id="lname" type="text" name="last_name" required>
+
+                <label for="email">Email:</label>
+                <input class="text_input" id="email" type="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <input class="text_input" id="message" type="text" name="message" required>
+
+                <input class="contact-button" type="submit" value="Connect Now">
             </form>
         </section>
 
