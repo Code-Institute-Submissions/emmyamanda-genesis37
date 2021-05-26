@@ -9,12 +9,10 @@ header {
 
 .logo {
     float: left;
-
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     font-weight: normal;
     font-size: 48px;
-    line-height: 45px;
     margin-top: 25px;
 
     color: rgba(10, 8, 8, 0.63);
@@ -24,8 +22,6 @@ header {
     font-size: 120%;
     list-style-type: none;
     letter-spacing: 4px;
-    width: auto;
-    position: relative;
 }
 
 .logo .menu {
@@ -54,8 +50,7 @@ header {
 .hero-pic {
     height: 1000px;
     width: 100%;
-    background-image: url(../images/amaliasofa.png);
-    background-repeat: no-repeat;
+    background: url(../images/amaliasofa.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -443,3 +438,4 @@ footer {
     background-color: rgba(255, 255, 255, 0.85);
     color: #b15151;
 }
+
