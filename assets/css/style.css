@@ -47,11 +47,13 @@ header {
     border-bottom: 1px solid #131010;
   }
 
-.hero-pic {
+#hero-pic {
     height: 1000px;
-    width: 100%;
     background: url(../images/amaliasofa.png) no-repeat center center;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .hero-text h1 {
@@ -439,3 +441,9 @@ footer {
     color: #b15151;
 }
 
+@media screen and (max-width: 1393px) {
+    .hero-text h1 h3 {
+        font-size: 100px;
+        text-align: center;
+    }
+}
