@@ -80,10 +80,6 @@ header {
     color: rgba(255, 255, 255, 0.73);
 }
 
-.intro-section {
-    height: 450px;
-}
-
 #intro {
     text-align: center;
     text-transform: uppercase;
@@ -92,44 +88,6 @@ header {
     margin-top: 20px;
 
     color: rgba(0, 0, 0, 0.70);
-}
-
-.intro-all {
-    width: 90%;
-}
-
-.intro-all h3 {
-    font-family: "Roboto Condensed", sans-serif;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-.intro-left {
-    float: left;
-    text-align: center;
-    margin-top: 35px;
-    margin-left: 15px;
-    width: 33%;
-}
-
-.intro-middle {
-    position: absolute;
-    left: 450px;
-    top: 1180px;
-    margin-top: 65px;
-    margin-left: 20px;
-    text-align: center;
-    width: 33%;
-}
-
-.intro-right {
-    position: absolute;
-    text-align: center;
-    left: 925px;
-    top: 1180px;
-    margin-top: 65px;
-    margin-left: 33px;
-    width: 33%;
 }
 
 #underline-intro-title {
