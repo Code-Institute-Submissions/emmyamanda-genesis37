@@ -8,10 +8,8 @@ header {
 }
 
 .logo {
-    float: left;
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
-    font-weight: normal;
     font-size: 48px;
     padding-top: 20px;
     padding-left: 36px;
