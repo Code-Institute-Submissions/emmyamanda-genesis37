@@ -36,26 +36,42 @@
         </nav>
 
         <section class = "contact-section">
-            <form class="booking-form" method="POST" action="">
-                <h2>Book us!</h2>
-                <p>Contact us for an interactive performance.
-                    It could be for a company build-up exercise or school event, 
-                    or if you have other ideas we would love to hear them!</p>
-                
-                <label for="fname">First Name:</label>
-                <input class="text-box" id="fname" type="text" name="first_name" required>
-                
-                <label for="lname">Last Name:</label>
-                <input class="text-box" id="lname" type="text" name="last_name" required>
+            <div class="container-fluid">
+                <form class="form-horizontal" action="/action_page.php">
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="fname">First Name:</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="fname" placeholder="Enter first name" name="first_name" required>
+                        </div>
+                    </div>
 
-                <label for="email">Email:</label>
-                <input class="text-box" id="email" type="email" name="email" required>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="lname">Last Name:</label>
+                        <div class="col-sm-10">          
+                            <input type="text" class="form-control" id="lname" placeholder="Enter last name" name="last_name" required>
+                        </div>
+                    </div>
 
-                <label for="message">Message:</label>
-                <input class="text-message-box" id="message" type="text" name="message" required>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="email">Email:</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+                        </div>
+                    </div>
 
-                <input class="contact-button" type="submit" value="Connect Now">
-            </form>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="message">Message:</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="message" placeholder="Enter message" name="message" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">        
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-default">Submit</button>
+                        </div>
+                    </div>
+                </form>
         </section>
 
         <footer>
