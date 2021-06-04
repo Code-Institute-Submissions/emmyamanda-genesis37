@@ -427,6 +427,12 @@ footer {
     }
   }
 
+  @media screen and (max-width: 460px) {
+      .logo {
+          font-size: 40px;
+      }
+  }
+
    
 
   
