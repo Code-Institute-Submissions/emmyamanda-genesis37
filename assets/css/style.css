@@ -312,7 +312,7 @@ footer {
     height: 780px;
     background: url(../images/avgi-eye.png);
     background-size: cover;
-    margin-top: 101px;
+    margin-top: 85px;
 }
 
 .form-horizontal {
@@ -325,6 +325,22 @@ footer {
 
 #form-section {
     padding-top: 60px;
+}
+
+.form-group {
+    margin-left: 24px;
+    margin-right: -65px;
+}
+
+.control-label {
+    margin-left: 17px;
+}
+
+#form-button {
+    background-color: #a02e2e;
+    color: white;
+    margin-left: 17px;
+    text-transform: uppercase;
 }
 
 #booking-form {
@@ -433,6 +449,10 @@ footer {
   @media screen and (max-width: 630px) {
     #intro {
         font-size: 116%;
+    }
+
+    .form-control {
+        width: auto;
     }
   }  
 
