@@ -247,7 +247,7 @@ footer {
 }
 
 .we-are-section {
-    height: 600px;
+    height: 700px;
     background-color: rgba(183, 183, 183, 0.59);
 }
 
@@ -440,6 +440,10 @@ footer {
         width: 90%;
         margin: auto;
     }
+
+    .img-thumbnail {
+        padding: 10px 19px 10px 16px;
+    }
   }
 
   @media screen and (max-width: 375px) {
@@ -461,7 +465,7 @@ footer {
 
   @media screen and (max-width: 658px) {
       .we-are-section {
-          height: 1085px;
+          height: 1194px;
       }
   }
 
