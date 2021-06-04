@@ -312,6 +312,7 @@ footer {
     height: 780px;
     background: url(../images/avgi-eye.png);
     background-size: cover;
+    margin-top: 101px;
 }
 
 #booking-form {
