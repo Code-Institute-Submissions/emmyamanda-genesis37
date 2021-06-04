@@ -220,8 +220,7 @@ footer {
 
 .about-styling {
     text-align: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 24px 19px 17px 24px;
 }
 
 .about-styling h2 {
@@ -238,7 +237,7 @@ footer {
 }
 
 .about-styling p {
-    font-family: "Roboto Mono", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
     padding-top: 25px;
     font-size: 22px;
 }
