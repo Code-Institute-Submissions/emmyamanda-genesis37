@@ -292,6 +292,10 @@ footer {
 
 /*************GALLERY.HTML**************/
 
+#gallery {
+    margin-top: 111px;
+}
+
 .img-fluid {
     height: 347px;
 }
