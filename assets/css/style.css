@@ -315,6 +315,18 @@ footer {
     margin-top: 101px;
 }
 
+.form-horizontal {
+    width: 50%;
+    background-color: white;
+    opacity: 0.8;
+    padding: 30px;
+    margin-left: 45px;
+}
+
+#form-section {
+    padding-top: 60px;
+}
+
 #booking-form {
     color: #fff;
     background-color: rgba(100, 98, 98, 0.3);
@@ -398,6 +410,17 @@ footer {
   @media screen and (max-width: 768px) {
     #intro {
       font-size: 151%;
+    }
+
+    .form-horizontal {
+        width: 60%;
+    }
+  }
+
+  @media screen and (max-width: 414px) {
+    .form-horizontal {
+        width: 90%;
+        margin: auto;
     }
   }
 
