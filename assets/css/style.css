@@ -1,12 +1,9 @@
-/*------------Imported Fonts-----*/
+/*------------Imported Fonts------------*/
 @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Mulish:wght@222&family=Roboto+Condensed&family=Roboto+Mono:wght@307;314&family=Roboto:wght@400;500;700&display=swap');
 
+/*------------Header------------*/
 
-header {
-    background-color: rgba(155, 157, 168, 0.82);
-    height: 90px;
-    margin-top: -16px;
-}
+/*------------Styling for title in navigation bar------------*/
 
 .logo {
     font-family: "Roboto", sans-serif;
@@ -17,6 +14,33 @@ header {
 
     color: rgba(10, 8, 8, 0.63);
 }
+
+/*------------Footer------------*/
+
+/*------------Styling for footer------------*/
+
+footer {
+    height: 90px;
+    background-color: #f8f9fa;
+}
+
+.social-media-links {
+    text-align: center;
+}
+
+.social-media-links li {
+    display: inline;
+}
+
+.social-media-links i {
+    font-size: 150%;
+    margin-top: 30px;
+    color: rgba(13, 12, 12, 0.63);
+    letter-spacing: 25px;
+}
+
+
+/*------------Styling for navigation bar------------*/
 
 .menu {
     font-size: 120%;
@@ -39,13 +63,15 @@ header {
     color: rgba(10, 8, 8, 0.63);
 }
 
-
-
 .menu a:hover {
     border-bottom: 1px solid #131010;
   }
 
+/**************** INDEX.HTML**************/
 
+/*------------Hero Picture------------*/
+
+/*------------Styling for Hero Picture------------*/
 
 #hero-pic {
     height: 1000px;
@@ -53,6 +79,8 @@ header {
     background-size: cover;
     margin-top: 85px;
 }
+
+/*------------Styling for text on Hero Picture------------*/
 
 #hero-pic h1 {
     font-family: "Roboto Condensed", sans-serif;
@@ -79,6 +107,10 @@ header {
 
     color: rgba(255, 255, 255, 0.73);
 }
+
+/*------------Section One: About the shows------------*/
+
+/*------------Styling for Section One------------*/
 
 #intro {
     text-transform: uppercase;
@@ -115,11 +147,17 @@ header {
     border-top: 1px solid #b15151;
 }
 
+/*------------Section Two: Upcoming Events------------*/
+
+/*------------Styling for Section Two------------*/
+
 .upcoming-events-section {
     height: 747px;
     
     position: relative;
 }
+
+/*------------Styling for background picture in Upcoming Events------------*/
 
 .events-background {
     background-image: url(../images/amalia-laying.png);
@@ -129,7 +167,7 @@ header {
     background-size: cover;
 }
 
-
+/*------------Styling for text in Upcoming Events------------*/
 
 .upcoming-events-section h2 {
     color: rgba(0, 0, 0, 0.70);
@@ -138,11 +176,6 @@ header {
     text-transform: uppercase;
     text-align: center;
     margin-top: 37px;
-}
-
-.overlay {
-    padding-bottom: 17px;
-    background-color: rgba(193, 192, 192, 0.41);
 }
 
 #events-text {
@@ -161,6 +194,15 @@ header {
     font-size: x-large;
     font-weight: 300;
 }
+
+/*------------Background used to see text against the background picture------------*/
+
+.overlay {
+    padding-bottom: 17px;
+    background-color: rgba(193, 192, 192, 0.41);
+}
+
+/*------------Styling for button in Upcoming Events------------*/
 
 .ticket-button-pos {
     margin: 0;
@@ -182,29 +224,10 @@ header {
     margin-bottom: 52px;
 }
 
-footer {
-    height: 90px;
-    background-color: #f8f9fa;
-    
-}
-
-.social-media-links {
-    text-align: center;
-}
-
-.social-media-links li {
-    display: inline;
-}
-
-.social-media-links i {
-    font-size: 150%;
-    margin-top: 30px;
-    color: rgba(13, 12, 12, 0.63);
-    letter-spacing: 25px;
-}
-
 
 /**************** ABOUT.HTML**************/
+
+/*------------Styling for top picture------------*/
 
 .about-section {
     height: 525px;
@@ -221,6 +244,10 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/*------------Our Mission Section------------*/
+
+/*------------Styling for text in Our Mission Section------------*/
 
 .about-styling {
     text-align: center;
@@ -245,6 +272,10 @@ footer {
     padding-top: 25px;
     font-size: 22px;
 }
+
+/*------------Who are we Section------------*/
+
+/*------------Styling for text in Who are we Section------------*/
 
 .we-are-section {
     height: 700px;
@@ -272,7 +303,7 @@ footer {
     text-align: center;
 }
 
-
+/*------------Styling for images used in who are we section------------*/
 
 #bio-pictures img {
     width: 300px; 
@@ -294,6 +325,8 @@ footer {
 
 /*************GALLERY.HTML**************/
 
+/*------------Styling for images in Gallery------------*/
+
 #gallery {
     margin-top: 111px;
     margin-bottom: 100px;
@@ -311,12 +344,16 @@ footer {
 
 /*********************CONTACT.HTML************/
 
+/*------------Styling for background image------------*/
+
 .contact-section {
     height: 780px;
     background: url(../images/avgi-eye.png);
     background-size: cover;
     margin-top: 85px;
 }
+
+/*------------Styling for form------------*/
 
 .form-horizontal {
     width: 50%;
@@ -340,12 +377,16 @@ footer {
     margin-left: 17px;
 }
 
+/*------------Styling for submit button in form------------*/
+
 #form-button {
     background-color: #a02e2e;
     color: white;
     margin-left: 17px;
     text-transform: uppercase;
 }
+
+/*------------Breakpoint for text on Hero Picture to maintain structural on mobile devices------------*/
 
 @media screen and (max-width: 2262px) {
     #hero-pic h1 {
@@ -367,6 +408,8 @@ footer {
     }
   }
 
+  /*------------Breakpoint for text in first section on INDEX.HTML to maintain structural on mobile devices------------*/
+
   @media screen and (max-width: 1217px) {
       #intro-text h3 {
           font-size: 16px;
@@ -377,6 +420,8 @@ footer {
     #intro {
       font-size: 151%;
     }
+
+    /*------------Breakpoint for form in CONTACT.HTML to maintain structural on mobile devices------------*/
 
     .form-horizontal {
         width: 60%;
@@ -389,10 +434,14 @@ footer {
         margin: auto;
     }
 
+    /*------------Breakpoint for images in GALLERY.HTML to maintain structural on mobile devices------------*/
+
     .img-thumbnail {
         padding: 10px 19px 10px 16px;
     }
   }
+
+  /*------------Breakpoint for navigation bar to maintain structural on mobile devices------------*/
 
   @media screen and (max-width: 375px) {
     .navbar {
@@ -400,15 +449,21 @@ footer {
     }
   }
 
+  /*------------Breakpoint for text in first section on INDEX.HTML to maintain structural on mobile devices------------*/
+
   @media screen and (max-width: 630px) {
     #intro {
         font-size: 116%;
     }
 
+    /*------------Breakpoint for form in CONTACT.HTML to maintain structural on mobile devices------------*/
+
     .form-control {
         width: auto;
     }
   }  
+
+  /*------------Breakpoint for Who are we section in ABOUT.HTML to maintain structural on mobile devices------------*/
 
 
   @media screen and (max-width: 658px) {
@@ -416,6 +471,8 @@ footer {
           height: 1194px;
       }
   }
+
+  /*------------Breakpoint for text in Upcoming Events on INDEX.HTML to maintain structural on mobile devices------------*/
 
   @media screen and (max-width: 738px){
     #events-text {
@@ -430,6 +487,8 @@ footer {
         margin-top: 14px;
     }
   }
+
+  /*------------Breakpoint for Title in Header to maintain structural on mobile devices------------*/
 
   @media screen and (max-width: 460px) {
       .logo {
