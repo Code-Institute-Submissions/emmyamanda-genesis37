@@ -189,6 +189,39 @@ Was used to see how the website responded in different versions, such as laptop,
 
 [Back to top ⇧](#Genesis-37)
 
+### GitHub Pages
+To see the project by the actions that has been taken in GitHub repository:
+
+1. Log in to GitHub. 
+
+2. Find GitHub Repository. 
+
+3. When found, locate settings from menu. 
+
+4. In menu, scroll down to find GitHub Pages. 
+
+5. GitHub will have a seperate like to take you to GitHub pages, follow this link. 
+
+Then you will come to a page where the website will be availible on. 
+
+### Forking the Repository
+By doing this we can make a copy of the original repository. And we can view it and make changes without affecting the original one. 
+
+### Credits 
+
+#### Images
+- The images used in this project was provided by one of the founders, Amalia. 
+
+#### Content
+- The content used in this project was by some imagination as well as the founders original [website](https://www.genometheatre.co.uk/ "Link to genometheatre").
+
+#### Code
+In order to better understand the code that was used in this project the following websites was used on a regular basis:
+
+- [W3Shcools](https://www.w3schools.com/ "Link to W3Schools page")
+- [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
+- [JSfiddle](https://jsfiddle.net/ "Link to JSfiddle page")
+
 
 
 
