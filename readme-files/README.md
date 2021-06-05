@@ -165,6 +165,30 @@ The home page also provides the users with information of upcoming shows and a l
 
 Any issues that has come up has been reported through git commands. The main issues has been making the website responsive as Bootstrap was mainly added after all files and css was done, which the developer found harder to apply Bootstrap to. Most issues was resolve by using Bootstrap. 
 
+### Technologi
+
+#### Languages used:
+- HTML5
+- CSS3 
+
+#### Frameworks, Programs and Libraries used: 
+- Bootstrap:
+Boostrap was applied to reach responsivness to the website, by classes. 
+- Font Awesome:
+This was used on the home page to reference the different shows and by that use to present upcoming shows. 
+-Google Fonts:
+Google fonts was added in style.css to apply desired fonts to be used throughout the website. 
+-GitHub:
+Used to save the project after pushing it thought the terminal in Git.
+- Git:
+Used to push the project to GitHub through the terminal.
+- Figma:
+Used to create the wireframes to get the layout of the project. 
+- Am I Responsive?:
+Was used to see how the website responded in different versions, such as laptop, IPad and IPhone versions. 
+
+[Back to top ⇧](#Genesis-37)
+
 
 
 
