@@ -103,7 +103,20 @@ To make sure the users can navigate through the website a hierarchy tree was cre
 The wireframes was created in Figma. (https://www.figma.com/file/Z3ELZSw9Xg4hw5KYylShTl/Genesis37?node-id=0%3A1)
 
 Home Page:
-![Home Page Figma]
+![Home Page Figma](assets/readme-files/home-page.png "Home page Figma")
+
+About Page:
+![About Page Figma](assets/readme-files/about-page.png "About page Figma")
+
+Gallery Page:
+![Gallery Page Figma](assets/readme-files/gallery-page.png "Gallery page Figma")
+
+Contact Page:
+![Contact Page Figma](assets/readme-files/contact-page.png "Contact page Figma")
+
+
+
+
 
 
 
