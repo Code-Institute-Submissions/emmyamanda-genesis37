@@ -1,6 +1,24 @@
 # Genesis 37
 
-![Genesis37 Mockup Images](assets/readme-files/mockup.png)
+![Genesis37 Mockup Images](../readme-files/mockup.png)
+
+
+## Content
+
+1. [Introduction](#Introduction)
+2. [UX](#UX)
+    1. [User Demographic](#User-Demographic)
+    2. [User Stories](#User-Stories)
+    3. [Development Planes](#Development-Planes)
+    4. [Design](#Design)
+
+3. [Features](#Features)
+4. [Issues](#Issues)
+5. [Technology](#Technology)
+6. [Credits](#Credits)
+7. [Acknowledgement](#Acknowledgement)
+
+
 
 ## Introduction
 
@@ -165,7 +183,7 @@ The home page also provides the users with information of upcoming shows and a l
 
 Any issues that has come up has been reported through git commands. The main issues has been making the website responsive as Bootstrap was mainly added after all files and css was done, which the developer found harder to apply Bootstrap to. Most issues was resolve by using Bootstrap. 
 
-### Technologi
+### Technology
 
 #### Languages used:
 - HTML5
@@ -216,11 +234,22 @@ By doing this we can make a copy of the original repository. And we can view it 
 - The content used in this project was by some imagination as well as the founders original [website](https://www.genometheatre.co.uk/ "Link to genometheatre").
 
 #### Code
-In order to better understand the code that was used in this project the following websites was used on a regular basis:
+- In order to better understand the code that was used in this project the following websites was used on a regular basis:
 
 - [W3Shcools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
 - [JSfiddle](https://jsfiddle.net/ "Link to JSfiddle page")
+
+### Acknowledgement
+
+I would like to thank my mentor, Seun, for the guidance during this project and her valuable adivice. 
+
+I would also like to thank my mum for supporting me during this course and that always believe in me. 
+
+And lastly I would like to thank my friend Amalia who gave me the idea for this project by doing what she loves and making a good situation in a time of crisis.
+
+[Back to top ⇧](#Genesis-37)
+***
 
 
 
