@@ -2,6 +2,8 @@
 
 ![Genesis37 Mockup Images](../readme-files/mockup.png)
 
+[Click here to view live project](https://emmyamanda.github.io/genesis37/)
+
 
 ## Content
 
