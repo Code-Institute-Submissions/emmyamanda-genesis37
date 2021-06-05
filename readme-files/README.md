@@ -99,7 +99,11 @@ To make sure the users can navigate through the website a hierarchy tree was cre
 
 ![Structure Map](readme-files/structure-map.png)
 
+#### Skeleton
+The wireframes was created in Figma. (https://www.figma.com/file/Z3ELZSw9Xg4hw5KYylShTl/Genesis37?node-id=0%3A1)
 
+Home Page:
+![Home Page Figma]
 
 
 
