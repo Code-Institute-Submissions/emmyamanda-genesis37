@@ -1,5 +1,7 @@
 # Genesis 37
 
+![Genesis37 Mockup Images](assets/readme-files/mockup.png)
+
 ## Introduction
 
 This website was created for a theatre company named Genome to showcase their theatre piece Genesis 37. It focus on providing excisting and new fans to find the relevant information about upcoming events, Genesis 37's goals and to get to know the creators. 
