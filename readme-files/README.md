@@ -9,7 +9,8 @@ This website was created for a theatre company named Genome to showcase their th
 Genesis 37 was created during lockdown by former University students Amalia and Argy. With their final theatre project being moved from the classroom to Zoom online they took the opportunity to continue the project further and get more people involved in a virtual theatre experience. The purpose of this website is to continue their goal to make virtual theatre the new normal and to show that theatre is not dead because of Covid-19 that has stopped the live theatre for the time beeing. 
 
 This is the first project out of the four Milestone Projects to be completed in Full Stack Web Development Program at Code Institute. 
-***
+
+[Back to top ⇧](#Genesis-37)
 
 ## UX
 
@@ -114,7 +115,25 @@ Gallery Page:
 Contact Page:
 ![Contact Page Figma](assets/readme-files/contact-page.png "Contact page Figma")
 
+### Design
 
+#### Typography
+
+The main fonts that has been used is Roboto and Roboto Condensed with a fallback to Sans Serif that has been imported from Google fonts. 
+
+#### Colour Scheme
+
+The website has been applied with the main colours of white, gray, black and red details.
+
+#### Images
+
+The images that has been selected represents what the founders of Genesis 37 has presented in live shows and private photos prior to shows.
+
+Images that has been provided on this page comes from the founders own personal photo albums, with some on online media. 
+
+Premission has been given to the creator of this website from the owners for use. 
+
+[Back to top ⇧](#Genesis-37)
 
 
 
