@@ -150,6 +150,16 @@ Premission has been given to the creator of this website from the owners for use
 
 - ***Socials***: In the Footer you will always see the social media icons on every page that takes you to each of their websites in a seperate window.
 
+- ***[Home Page](index.html)***: Gives users an insight as to what Genesis 37 is providing, it gives an explination to each show and a sit down where the users can contribute with their ideas as well. 
+The home page also provides the users with information of upcoming shows and a link to take them to booking tickets.
+
+- ***[About Page](about.html)***: Provides a understanding about the founders of Genesis 37 and their goals. 
+
+- ***[Gallery Page](gallery.html)***: Provides images to give the users an insight of their work.
+
+- ***[Contact Page](contact.html)***: The users can send in a form showing interest in Genesis 37 for any information they might search for or any ideas they might have for future projects.
+
+[Back to top ⇧](#Genesis-37)
 
 
 
