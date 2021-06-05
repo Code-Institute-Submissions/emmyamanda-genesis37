@@ -135,6 +135,22 @@ Premission has been given to the creator of this website from the owners for use
 
 [Back to top ⇧](#Genesis-37)
 
+### Features
+
+#### Design
+
+- On smaller screens the navigation bar collapse to a **toggler** icon where the user can click on and a box containing each of the links for the pages shows up. 
+
+### Features on all pages 
+
+-**Header** : 
+- ***Logo***: The logo that appears on all pages will always take the user back to the home page. 
+
+- ***Navigation Bar***: On all pages the navigation bar appears with easy navigation.
+
+- ***Socials***: In the Footer you will always see the social media icons on every page that takes you to each of their websites in a seperate window.
+
+
 
 
 
