@@ -161,6 +161,10 @@ The home page also provides the users with information of upcoming shows and a l
 
 [Back to top ⇧](#Genesis-37)
 
+### Issues
+
+Any issues that has come up has been reported through git commands. The main issues has been making the website responsive as Bootstrap was mainly added after all files and css was done, which the developer found harder to apply Bootstrap to. Most issues was resolve by using Bootstrap. 
+
 
 
 
