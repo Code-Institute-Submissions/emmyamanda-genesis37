@@ -185,6 +185,23 @@ The home page also provides the users with information of upcoming shows and a l
 
 Any issues that has come up has been reported through git commands. The main issues has been making the website responsive as Bootstrap was mainly added after all files and css was done, which the developer found harder to apply Bootstrap to. Most issues was resolve by using Bootstrap. 
 
+## Testing User Stories from User Experience Section
+
+-   #### First Time Visitor Goals - I want to:
+
+Quickly understand the service Genesis37 provides and how I can interact with the service. 
+ I can do this by:
+- Checking history of company
+- Seeing upcoming shows
+- Buying tickets for upcoming show
+
+-   #### Frequent User Goals - I want to:
+
+I want to:
+- Check upcoming shows
+- Buy tickets for upcoming shows 
+- See new information added and gallery 
+
 ### Technology
 
 #### Languages used:
@@ -223,6 +240,16 @@ To see the project by the actions that has been taken in GitHub repository:
 5. GitHub will have a seperate like to take you to GitHub pages, follow this link. 
 
 Then you will come to a page where the website will be availible on. 
+
+### Validation
+
+The W3C Markup and CSS Validator Services were used to validate every page of the project. 
+
+- [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Femmyamanda.github.io%2Fgenesis37%2F)
+There was some problems shown when validating but the are ignorable as there are no use for headings on some places and the button works as directed. 
+
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+No error found in CSS code.
 
 ### Forking the Repository
 By doing this we can make a copy of the original repository. And we can view it and make changes without affecting the original one. 
