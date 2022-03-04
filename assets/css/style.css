@@ -126,14 +126,14 @@ footer {
     padding-bottom: 16px;
 }
 
-#intro-text h3 {
+.intro-text h3 {
     font-family: "Roboto", sans-serif;
     color: #1b1919;
     text-transform: uppercase;
     text-align: center;
 }
 
-#intro-text-box {
+.intro-text-box {
     padding-bottom: 40px;
 }
 
@@ -142,7 +142,7 @@ footer {
     border-top: 4px solid #b15151;
 }
 
-#underline-intro-text {
+.underline-intro-text {
     width: 20%;
     border-top: 1px solid #b15151;
 }
@@ -178,7 +178,7 @@ footer {
     margin-top: 37px;
 }
 
-#events-text {
+.events-text {
     text-align: center;
 }
 
@@ -187,7 +187,7 @@ footer {
     border-top: 4px solid #b15151;
 }
 
-#events-text h4 {
+.events-text h4 {
     color: rgba(0, 0, 0, 0.70);
     padding-top: 35px;
     font-weight: 100;
@@ -305,21 +305,20 @@ footer {
 
 /*------------Styling for images used in who are we section------------*/
 
-#bio-pictures img {
+.bio-pictures img {
     width: 300px; 
     height: 300px; 
 }
 
-#bio-pictures h4 {
+.bio-pictures h4 {
     text-transform: uppercase;
     margin-top: 14px;
     color: #5f1616;
     text-decoration-line: underline;
 }
 
-#bio-pictures p {
+.bio-pictures p {
     text-align: center;
-    text-size-adjust: 40px;
 }
 
 
